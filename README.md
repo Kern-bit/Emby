@@ -1,3 +1,2 @@
-# Emby
-Emby Wiki
+# Emby Wiki
 内容均收录于互联网，如有侵权，请联系删除。
